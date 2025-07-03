@@ -28,7 +28,3 @@ Affiliate marketing had the strongest explanatory power with a correlation of 0.
 4. Statistical Summaries
 5. City to city comparisons
 6. Visual Insights with Matplotlib
-
-# Screenshot
-
-
