@@ -15,7 +15,7 @@ Includes statistical summaries, labeled heat waves and cold snaps and visual ins
 -NumPy - efficient handling of large arrays and vectorized computations for temperature data.
 -Matplotlib - line plots showing daily temperature changes across cities for fast, intuitive interpretation.
 -Jupyter - Development Environment for writing and testing the analysis
-- CSV - formats for storing and reloading temperature data and labeled outputs
+-CSV - format for storing and reloading temperature data and labeled outputs
 
 # Key Insights:
 Billboards show a moderate impact on sales with a correlation of 0.48 and an r_squared of 0.23 meaning 23% of sales variation is explained by its spend.
